@@ -1,12 +1,6 @@
-Jeszcze Polska nie zginęła,
-Kiedy my żyjemy.
-Co nam obca przemoc wzięła,
-Szablą odbierzemy.
+zwrotka1.txt
 
-Marsz, marsz Dąbrowski,
-Z ziemi włoskiej do Polski.
-Za twoim przewodem
-Złączym się z narodem.
+refren1.txt
 
 Przejdziem Wisłę, przejdziem Wartę,
 Będziem Polakami.
