@@ -10,12 +10,6 @@ zwrotka3.txt
 
 refren3.txt
 
-Już tam ojciec do swej Basi
-Mówi zapłakany
-- Słuchaj jeno, pono nasi
-Biją w tarabany.
+zwrotka4.txt
 
-Marsz, marsz Dąbrowski,
-Z ziemi włoskiej do Polski.
-Za twoim przewodem
-Złączym się z narodem.
+refren4.txt
