@@ -6,15 +6,9 @@ zwrotka2.txt
 
 refren2.txt
 
-Jak Czarniecki do Poznania
-Po szwedzkim zaborze,
-Dla ojczyzny ratowania
-Wrócim się przez morze.
+zwrotka3.txt
 
-Marsz, marsz Dąbrowski,
-Z ziemi włoskiej do Polski.
-Za twoim przewodem
-Złączym się z narodem.
+refren3.txt
 
 Już tam ojciec do swej Basi
 Mówi zapłakany
