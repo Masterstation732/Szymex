@@ -2,15 +2,9 @@ zwrotka1.txt
 
 refren1.txt
 
-Przejdziem Wisłę, przejdziem Wartę,
-Będziem Polakami.
-Dał nam przykład Bonaparte,
-Jak zwyciężać mamy.
+zwrotka2.txt
 
-Marsz, marsz Dąbrowski,
-Z ziemi włoskiej do Polski.
-Za twoim przewodem
-Złączym się z narodem.
+refren2.txt
 
 Jak Czarniecki do Poznania
 Po szwedzkim zaborze,
